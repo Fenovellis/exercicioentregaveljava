@@ -9,6 +9,9 @@ public class Aluno {
         this.codigoAluno = codigoAluno;
     }
 
+    public Aluno() {
+    }
+
     public String getNome() {
         return nome;
     }
